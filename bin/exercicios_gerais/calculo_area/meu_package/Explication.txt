@@ -1,0 +1,22 @@
+Neste exemplo simples, foi possível entender como fazer uma classe e instanciar um objeto utilizando o new objeto(); Criou-se um programa que recebia dois valores para área de um retângulo. Esses valores podiam ser ambos inteiros ou ambos double, com casas decimais.
+
+A implementação disso se deu a partir da criação de uma classe Calcular que possui dois métodos CalcularÁrea, um que recebe somente inteiros, outro que recebe somente double. Isto é chamado de sobrecarga, criar métodos de mesmo nome com pequenas funcionalidades distintas.
+
+Uma boa prática a respeito da POO é sempre começar uma classe com Letra Maiúscula, o objeto sempre ter um nome de letra minúscula
+
+Por exemplo: Calcular calcular = new Calcular();
+Calcular é a classe, já calcular é o objeto instanciado na memória do computador
+
+AInda, é preciso entender como fazer a compilação desses arquivos e ocorrer a devida referência da classe Main à classe Calcular nesse processo
+
+Já tenho um pouco de conhecimento sobre funções, saída, definição de variáveis, por isso isto não me é um problema nesta linguagem
+
+Descobri como faz um package no VSCODE, basta ir em Java Projects, aperta no + da pasta onde você se encontra e criar um novo package. Agora vou tentar compilar esse código.
+
+Consegui compilar, agora tenho que ver como deixar essa compilação sem estar na mesma pasta dos códigos fonte, uma vez que é uma boa prática deixá-los longe da pasta desses códigos.
+
+Para executar o código compilado, tive que entrar na pasta exercicio_do_calculo_area pelo Terminal e executado o comando:
+
+java meu_package.Main
+
+Porém acredito que tenham outras formas de realizar essa funcionalidade. Tenho que verificar como executar os códigos na pasta target.
