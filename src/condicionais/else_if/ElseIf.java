@@ -45,7 +45,6 @@ public class ElseIf {
 }
 
 /*
- * Crie um programa que verifica a temperatura do ambiente e julga se está calor, frio ou normal.
  * Entradas:
  * 40, 31, 26, 19, 0, -274
  */
