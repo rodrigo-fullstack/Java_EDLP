@@ -58,6 +58,36 @@ Aqui, realizou-se a inicialização da variável com int variavel = 0, a condiç
 
 Vale ressaltar que na maior parte das vezes o padrão para essa variável de controle é "i", sendo visto na maior parte dos códigos.
 
+## Blocos de Código
+
+Tanto em estruturas de repetição, como em condicionais, é possível organizar os códigos em *blocos*. A forma mais simples de ambos são assim:
+
+```
+	if(x < 10)
+		System.out.println("Menor do que 10");
+		
+	for(x = 0, x < 10, x++)
+		System.out.println("X = " + x);
+```
+
+Nesse caso, sem as chaves ({ - }), a estrutura de repetição ou a condicional executará somente uma instrução, porém ao colocar as chaves é possível executar mais de uma instrução.
+
+```
+	if(x < 10) {
+		System.out.println("Menor do que 10");
+		x *= 2;
+	}
+	
+	for(x = 0, x < 30, x++){
+		System.out.println("X = " + x);
+		if(x % 2 == 0)
+			System.out.println("X atual é par")
+		else
+			System.out.println("X atual é ímpar")
+	}
+	
+```
+
 ## Conclusão
 
 Conclui-se portanto que a maior utilidade de uso está em utilizar o while e o for. O while para quando não se tem a quantidade de vezes que o comando será executado, sendo mais dinâmico e flexível a mudanças, já o for para número de instruções definidas, apesar de ter se mostrado nos exemplos práticos que o for também pode ser maleável.

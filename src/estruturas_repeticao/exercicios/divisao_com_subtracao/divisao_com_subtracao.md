@@ -190,7 +190,59 @@ Contador = 0
 
 Quando se torna positivo, significa que o número anterior é seu resto.
 
+#### Ambos Negativos
+
+Toma dois números: -8 e -2
+
+-2 multiplicado por quanto que gera -8? Multiplicado por 4, porque será:
+
+-2 - 2 - 2 - 2 = -8;
+
+Fazendo um teste de mesa decrescendo como as últimas vezes:
+
+Contador = 0;
+
+-8 - (-2) = -6 | Contador = 1
+
+-6 - (-2) = -4 | Contador = 2 
+
+-4 - (-2) = -2 | Contador = 3
+
+-2 - (-2) = 0 | Contador = 4
+
+Vai aumentando até chegar zero
   
+##### Resto para Ambos Negativos
+
+Mesma coisa dos outros, prevê o próximo número se é positivo; caso seja, o resto é o anterior.  
+
+## Teste de mesa
+
+20 e 4 = 5;
+
+23 e 3 = 7, resto = 2;
+
+-----
+
+-10 e 2 = -5;
+
+-13 e 3 = -4, resto = -1;
+
+-------
+
+12 e -4 = -3;
+
+15 e -7 = -2, resto = 1;
+
+-----
+
+-20 e -5 = 4; 
+
+-50 e -3 = 16, resto = -2;
+
+1 e 2 = 0, resto = 1
+
+
 ## Como fazer?
 
 * Dá entrada nos números inteiros que serão divididos

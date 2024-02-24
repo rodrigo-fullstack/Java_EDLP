@@ -7,5 +7,5 @@ Ainda vi um pouco sobre os comentários da linguagem, os de linha "//", de bloco
 
 Também vi um pouco sobre a compilação manual dos códigos java, no entanto sei que existem métodos mais sofisticados de compilação
 
-Uma última alteração que eu fiz aqui foi englobar esses arquivos em um meu_package para facilitar meu uso do código e evitar erros desnecessários. É claro que existem outras formas bem melhores de se fazer isso, caso tenham alguma sugestão podem dizer.
-"
+Uma última alteração que eu fiz aqui foi englobar esses arquivos em um meu_package para facilitar meu uso do código e evitar erros desnecessários. É claro que existem outras formas bem melhores de se fazer isso, já que sou iniciante e ainda não conheço tudo dos tais packages. 
+
