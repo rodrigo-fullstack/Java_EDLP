@@ -9,7 +9,7 @@ package vetores_matrizes.exercicios.media_aritmetica_10valores;
 public class MediaAritmetica10Valores {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Example");
 
 	}
 
