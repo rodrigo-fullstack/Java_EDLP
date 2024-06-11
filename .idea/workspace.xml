@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b61ad169-bd03-4f2e-8c40-6c231213799f" name="Changes" comment="Importando para IDEA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +41,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConversaoExplicita.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MediaAritmetica10Valores.executor": "Run",
+    "Application.TestandoListas.executor": "Run",
     "Application.TestandoVetores01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rodrigo/Documents/Estudos/Programacao/JavaProjetos/EstudosWkSpace/Java_Estruturas_Dados"
+    "last_opened_file_path": "/home/rodrigo/Documents/Estudos/Programacao/JavaProjetos/EstudosWkSpace/Java_Estruturas_Dados",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listas.exercicios_listas.ecommerce.Main" />
+      <module name="Java_Estruturas_Dados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listas.exercicios_listas.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
