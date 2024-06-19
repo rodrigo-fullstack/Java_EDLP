@@ -5,8 +5,438 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b61ad169-bd03-4f2e-8c40-6c231213799f" name="Changes" comment="Importando para IDEA">
+      <change afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/calculadora_simples/meu_package/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operadores/combinacao/combinacao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operadores/operadores.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/condicionais.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/condicionais.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/abono_salarial/abono_salarial.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/abono_salarial/abono_salarial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/circunferencia/circunferencia.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/circunferencia/circunferencia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/desconto_produto_alto_valor/desconto_produto_alto_valor.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/desconto_produto_alto_valor/desconto_produto_alto_valor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/forma_pgto_simples/forma_pgto_simples.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/forma_pgto_simples/forma_pgto_simples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/jogo_escolhas/jogo_escolhas.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/jogo_escolhas/jogo_escolhas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/jogo_numero_euler/jogo_numero_euler.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/jogo_numero_euler/jogo_numero_euler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/media_exame/media_exame.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/media_exame/media_exame.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/multiplos_tres_sete/multiplos_tres_sete.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/multiplos_tres_sete/multiplos_tres_sete.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/triangulos_formacao_classificacao/triangulos_formacao_classificacao.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/triangulos_formacao_classificacao/triangulos_formacao_classificacao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/condicionais/exercicios/verificar_impar/verificar_impar.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/condicionais/exercicios/verificar_impar/verificar_impar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/entrada_dados/exercicios/scanner/area_da_circunferencia/area_da_circunferencia.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/entrada_dados/exercicios/scanner/area_da_circunferencia/area_da_circunferencia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/estruturas_repeticao/estruturas_repeticao.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/estruturas_repeticao/estruturas_repeticao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios_gerais/lei_de_mendel_01/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios_gerais/lei_de_mendel_01/descricao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios_gerais/semaforos/enunciado.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios_gerais/semaforos/enunciado.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/aritmeticos/aritmeticos.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/aritmeticos/aritmeticos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/atribuicao/atribuicao.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/atribuicao/atribuicao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/atribuicao/incremento_decremento/incremento_decremento.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/atribuicao/incremento_decremento/incremento_decremento.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/combinacao/combinacao.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/combinacao/combinacao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/exercicios/equacao_dos_fabricantes/equacao_dos_fabricantes.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/exercicios/equacao_dos_fabricantes/equacao_dos_fabricantes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/exercicios/expressoes001/expressoes001.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/exercicios/expressoes001/expressoes001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/exercicios/expressoes002/expressoes002.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/exercicios/expressoes002/expressoes002.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/exercicios/teorema_de_pitagoras/teorema_de_pitagoras.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/exercicios/teorema_de_pitagoras/teorema_de_pitagoras.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/expressoes_logicas/expressoes_logicas.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/expressoes_logicas/expressoes_logicas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/operadores/operadores.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/operadores/operadores.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/variaveis/exercicios/distributiva_valores/distributiva_valores.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/variaveis/exercicios/distributiva_valores/distributiva_valores.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/variaveis/exercicios/quadrado_das_somas/quadrado_das_somas.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/variaveis/exercicios/quadrado_das_somas/quadrado_das_somas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/vetores/ex_simples/ex_simples.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/vetores/ex_simples/ex_simples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/classes_tipos_primitivos/classes_tipos_primitivos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/Exemplo_condicional.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/condicionais.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/else_if/ElseIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/abono_salarial/AbonoSalarialXSoftware.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/abono_salarial/abono_salarial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/catalogo/Catalogo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/catalogo/catalogo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/catalogo/tabela_catalogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/circunferencia/Circunferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/circunferencia/circunferencia.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/desconto_produto_alto_valor/DescontoAltoValorDoProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/desconto_produto_alto_valor/desconto_produto_alto_valor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/forma_pgto_complexo/FormaPgtoComplexo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/forma_pgto_complexo/FormaPgtoComplexo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/forma_pgto_complexo/forma_pgto_complexo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/forma_pgto_simples/FormaPagamentoSimples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/forma_pgto_simples/forma_pgto_simples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/gastos_amazon_prime/GastosAmazonPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/gastos_amazon_prime/gastos_amazon_prime.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/jogo_escolhas/JogoRpgEscolhas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/jogo_escolhas/jogo_escolhas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/jogo_numero_euler/NumeroEuler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/jogo_numero_euler/jogo_numero_euler.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/livraria_criterios/LivrariaCriterios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/livraria_criterios/livraria_criterios.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/media_exame/MediaExameVerificacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/media_exame/media_exame.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/meses/ContandoMesesComSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/meses/meses.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/multiplos_tres_sete/MultiplosDe3E7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/multiplos_tres_sete/multiplos_tres_sete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/sobrepeso/VerificandoSobrePeso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/sobrepeso/sobrepeso.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/soma_diferenca_tempo/DiferencaTempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/soma_diferenca_tempo/SomaTempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/soma_diferenca_tempo/soma_diferenca_tempo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/triangulos_formacao_classificacao/Triangulos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/triangulos_formacao_classificacao/triangulos_formacao_classificacao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/verificar_impar/VerificandoImparOuPar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/exercicios/verificar_impar/verificar_impar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/if_else/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/if_else_fluxograma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/if_encadeado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/if_fluxograma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/multipla_escolha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/se_if/SeIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/condicionais/switch_case/SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/conversao_de_tipos/conteudos/ConversaoDeChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/conversao_de_tipos/conteudos/ConversaoExplicita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/conversao_de_tipos/conteudos/ConversaoImplicita01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/conversao_de_tipos/conversao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/JOptionPane/ClasseJOptPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/JOptionPane/JOptionPane.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/entrada.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/j_option_pane/media_escolar/MediaEscolar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/j_option_pane/media_escolar/media_escolar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/area_da_circunferencia/AreaDaCircunferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/area_da_circunferencia/area_da_circunferencia.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/aumento_linear_transversal/AumentoLinearTransversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/aumento_linear_transversal/aumento_linear_transversal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/conversao_temperatura/ConversaoDeTemperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/conversao_temperatura/conversao_temperatura.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/troco/Troco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/exercicios/scanner/troco/troco.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/scanner/Scanneando.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/entrada_dados/scanner/scanner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/break_continue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/estrutura_do_while/EstruturaDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/estrutura_for/TestandoFor01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/estrutura_while/TestandoWhile01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/estrutura_while/TestandoWhile02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/estruturas_repeticao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/altura_criancas/CalculandoAlturaCriancas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/altura_criancas/altura_criancas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/divisao_com_subtracao/DivisaoSomenteComSubtracao01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/divisao_com_subtracao/ExtensaoNumerosNegativos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/divisao_com_subtracao/Testes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/divisao_com_subtracao/divisao_com_subtracao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/maiores_numeros/Os3MaioresNumeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/maiores_numeros/maiores_numeros.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/media_dinamica/media_dinamica.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicacaoSomenteComSoma01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicandoSomenteComSoma02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicandoSomenteComSoma03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/multiplicacao_com_soma/multiplicacao_com_soma.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/recrutamento_empresa/RecrutamentoEmpresa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/recrutamento_empresa/RecrutamentoEmpresa02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/recrutamento_empresa/TestesRecrutamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/recrutamento_empresa/TestesRecrutamento02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/exercicios/recrutamento_empresa/recrutamento_empresa.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/estruturas_repeticao/while.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/calculadora_simples/enunciado.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/calculadora_simples/meu_package/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/calculadora_simples/resolucao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/calculo_area/meu_package/Calcular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/calculo_area/meu_package/Explication.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/calculo_area/meu_package/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/conta_bancaria_simples/meu_package/enunciado.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/lei_de_mendel_01/descricao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/lei_de_mendel_01/meu_package/LeiDeMendel01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/pedindo_argumento_console/descricao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/pedindo_argumento_console/meu_package/PedindoArgumentosConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/pintando_tanques/descricao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/pintando_tanques/enunciado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/pintando_tanques/meu_package/PintandoTanques.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/plano_cartesiano_distancia/enunciado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/plano_cartesiano_distancia/meu_package/DistanciaPlanoCartesiano.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/semaforos/enunciado.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/semaforos/version001/descricao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/semaforos/version001/meu_package/Semaforos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/velocidade_media/meu_package/VelocidadeMedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/exercicios_gerais/velocidade_media/meu_package/description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/hello_world/hello_world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/hello_world/meu_package/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/hello_world/meu_package/ManipulandoListaProdutos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/listas/exercicios_listas/ecommerce/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/listas/exercicios_listas/ecommerce/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/listas/testando_listas/TestandoListas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/aritmeticos/OperadoresAritmeticos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/aritmeticos/aritmeticos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/atribuicao/OperadoresDeAtribuicao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/atribuicao/atribuicao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/atribuicao/incremento_decremento/IncDec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/atribuicao/incremento_decremento/incremento_decremento.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/combinacao/CombinacaoDeOperadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/combinacao/combinacao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/divisao_resto/DivisaoResto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/divisao_resto/divisao_resto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/equacao_dos_fabricantes/EquacaoDosFabricantesDeLentes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/equacao_dos_fabricantes/equacaoDosFabricantes.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/equacao_dos_fabricantes/equacao_dos_fabricantes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/expressoes001/ExpressoesAritmeticas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/expressoes001/expressoes001.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/expressoes002/ExpressoesComplexas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/expressoes002/expressoes002.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/teorema_de_pitagoras/TeoremaDePitagoras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/exercicios/teorema_de_pitagoras/teorema_de_pitagoras.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/expressoes_logicas/expressoes_logicas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/expressoes_logicas/op_logicos/OperadoresLogicos001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/expressoes_logicas/op_logicos/OperadoresLogicos002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/expressoes_logicas/op_logicos/OperadoresLogicos003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/expressoes_logicas/op_relacionais/ComparacaoDeStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/expressoes_logicas/op_relacionais/OperadoresRelacionais.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/operadores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/ternario/OperadorTernario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/operadores/ternario/ternario.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/resolucao_problemas/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/resolucao_problemas/resolucao_problemas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/exercicios/soma/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/exercicios/soma/soma.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/print_println/Prints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/printf/Printf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/saida.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/seq_escape_1/SequenciaDeEscape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/saida_dados/seq_escape_2/SequenciaDeEscape2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/constantes/Constantes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/convencoes/ConvencoesDeNomes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/distributiva_valores/DistributivaSomaMult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/distributiva_valores/distributiva_valores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/esfera_volume/VolumeAreaDaEsfera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/esfera_volume/esfera_volume.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/quadrado_da_diferenca/QuadradoDaDiferenca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/quadrado_da_diferenca/quadrado_da_diferenca.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/quadrado_das_somas/QuadradoDasSomas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/quadrado_das_somas/quadrado_das_somas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/soma_dos_quadrados/SomaDosQuadrados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/soma_dos_quadrados/soma_dos_quadrados.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/troca_de_dados/TrocaDeDados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/exercicios/troca_de_dados/troca_de_dados.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/testando_erros001/Erros1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/testando_erros002/Erros2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/variaveis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/variaveis001/Variaveis1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/variaveis002/DeclaracaoDeVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/variaveis/variaveis003/AlturaTrianguloRetangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores/ex_simples/ExemploVetSimples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores/ex_simples/ex_simples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores/vetores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/ex_simples/ExemploVetSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/ex_simples/ex_simples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/exercicios/digitando_10valores/Digitando10Valores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/exercicios/media_aritmetica_10valores/MediaAritmetica10Valores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/exercicios/media_aritmetica_10valores/media_aritmetica_10valores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/testando_vetores/TestandoVetores01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/testando_vetores/TestandoVetores02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Estruturas_Dados/vetores_matrizes/vetores_matrizes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes_tipos_primitivos/classes_tipos_primitivos.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/classes_tipos_primitivos/classes_tipos_primitivos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/Exemplo_condicional.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/Exemplo_condicional.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/condicionais.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/condicionais.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/else_if/ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/else_if/ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/abono_salarial/AbonoSalarialXSoftware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/abono_salarial/AbonoSalarialXSoftware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/abono_salarial/abono_salarial.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/abono_salarial/abono_salarial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/catalogo/Catalogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/catalogo/Catalogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/catalogo/catalogo.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/catalogo/catalogo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/catalogo/tabela_catalogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/catalogo/tabela_catalogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/circunferencia/Circunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/circunferencia/Circunferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/circunferencia/circunferencia.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/circunferencia/circunferencia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/desconto_produto_alto_valor/DescontoAltoValorDoProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/desconto_produto_alto_valor/DescontoAltoValorDoProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/desconto_produto_alto_valor/desconto_produto_alto_valor.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/desconto_produto_alto_valor/desconto_produto_alto_valor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/forma_pgto_complexo/FormaPgtoComplexo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/forma_pgto_complexo/FormaPgtoComplexo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/forma_pgto_complexo/FormaPgtoComplexo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/forma_pgto_complexo/FormaPgtoComplexo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/forma_pgto_complexo/forma_pgto_complexo.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/forma_pgto_complexo/forma_pgto_complexo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/forma_pgto_simples/FormaPagamentoSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/forma_pgto_simples/FormaPagamentoSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/forma_pgto_simples/forma_pgto_simples.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/forma_pgto_simples/forma_pgto_simples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/gastos_amazon_prime/GastosAmazonPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/gastos_amazon_prime/GastosAmazonPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/gastos_amazon_prime/gastos_amazon_prime.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/gastos_amazon_prime/gastos_amazon_prime.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/jogo_escolhas/JogoRpgEscolhas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/jogo_escolhas/JogoRpgEscolhas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/jogo_escolhas/jogo_escolhas.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/jogo_escolhas/jogo_escolhas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/jogo_numero_euler/NumeroEuler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/jogo_numero_euler/NumeroEuler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/jogo_numero_euler/jogo_numero_euler.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/jogo_numero_euler/jogo_numero_euler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/livraria_criterios/LivrariaCriterios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/livraria_criterios/LivrariaCriterios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/livraria_criterios/livraria_criterios.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/livraria_criterios/livraria_criterios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/media_exame/MediaExameVerificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/media_exame/MediaExameVerificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/media_exame/media_exame.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/media_exame/media_exame.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/meses/ContandoMesesComSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/meses/ContandoMesesComSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/meses/meses.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/meses/meses.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/multiplos_tres_sete/MultiplosDe3E7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/multiplos_tres_sete/MultiplosDe3E7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/multiplos_tres_sete/multiplos_tres_sete.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/multiplos_tres_sete/multiplos_tres_sete.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/sobrepeso/VerificandoSobrePeso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/sobrepeso/VerificandoSobrePeso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/sobrepeso/sobrepeso.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/sobrepeso/sobrepeso.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/soma_diferenca_tempo/DiferencaTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/soma_diferenca_tempo/DiferencaTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/soma_diferenca_tempo/SomaTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/soma_diferenca_tempo/SomaTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/soma_diferenca_tempo/soma_diferenca_tempo.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/soma_diferenca_tempo/soma_diferenca_tempo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/triangulos_formacao_classificacao/Triangulos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/triangulos_formacao_classificacao/Triangulos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/triangulos_formacao_classificacao/triangulos_formacao_classificacao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/triangulos_formacao_classificacao/triangulos_formacao_classificacao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/verificar_impar/VerificandoImparOuPar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/verificar_impar/VerificandoImparOuPar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/exercicios/verificar_impar/verificar_impar.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/exercicios/verificar_impar/verificar_impar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/if_else/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/if_else/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/if_else_fluxograma.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/if_else_fluxograma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/if_encadeado.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/if_encadeado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/if_fluxograma.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/if_fluxograma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/multipla_escolha.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/multipla_escolha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/se_if/SeIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/se_if/SeIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionais/switch_case/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/condicionais/switch_case/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversao_de_tipos/conteudos/ConversaoDeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conversao_de_tipos/conteudos/ConversaoDeChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversao_de_tipos/conteudos/ConversaoExplicita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conversao_de_tipos/conteudos/ConversaoExplicita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversao_de_tipos/conteudos/ConversaoImplicita01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conversao_de_tipos/conteudos/ConversaoImplicita01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversao_de_tipos/conversao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conversao_de_tipos/conversao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/JOptionPane/ClasseJOptPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/JOptionPane/ClasseJOptPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/JOptionPane/JOptionPane.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/JOptionPane/JOptionPane.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/entrada.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/entrada.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/j_option_pane/media_escolar/MediaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/j_option_pane/media_escolar/MediaEscolar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/j_option_pane/media_escolar/media_escolar.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/j_option_pane/media_escolar/media_escolar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/area_da_circunferencia/AreaDaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/area_da_circunferencia/AreaDaCircunferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/area_da_circunferencia/area_da_circunferencia.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/area_da_circunferencia/area_da_circunferencia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/aumento_linear_transversal/AumentoLinearTransversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/aumento_linear_transversal/AumentoLinearTransversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/aumento_linear_transversal/aumento_linear_transversal.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/aumento_linear_transversal/aumento_linear_transversal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/conversao_temperatura/ConversaoDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/conversao_temperatura/ConversaoDeTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/conversao_temperatura/conversao_temperatura.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/conversao_temperatura/conversao_temperatura.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/troco/Troco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/troco/Troco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/exercicios/scanner/troco/troco.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/exercicios/scanner/troco/troco.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/scanner/Scanneando.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/scanner/Scanneando.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entrada_dados/scanner/scanner.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/entrada_dados/scanner/scanner.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/break_continue.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/break_continue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/estrutura_do_while/EstruturaDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/estrutura_do_while/EstruturaDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/estrutura_for/TestandoFor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/estrutura_for/TestandoFor01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/estrutura_while/TestandoWhile01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/estrutura_while/TestandoWhile01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/estrutura_while/TestandoWhile02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/estrutura_while/TestandoWhile02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/estruturas_repeticao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/estruturas_repeticao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/altura_criancas/CalculandoAlturaCriancas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/altura_criancas/CalculandoAlturaCriancas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/altura_criancas/altura_criancas.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/altura_criancas/altura_criancas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/divisao_com_subtracao/DivisaoSomenteComSubtracao01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/divisao_com_subtracao/DivisaoSomenteComSubtracao01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/divisao_com_subtracao/ExtensaoNumerosNegativos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/divisao_com_subtracao/ExtensaoNumerosNegativos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/divisao_com_subtracao/Testes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/divisao_com_subtracao/Testes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/divisao_com_subtracao/divisao_com_subtracao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/divisao_com_subtracao/divisao_com_subtracao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/maiores_numeros/Os3MaioresNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/maiores_numeros/Os3MaioresNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/maiores_numeros/maiores_numeros.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/maiores_numeros/maiores_numeros.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/media_dinamica/MediaDinamicaWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/media_dinamica/media_dinamica.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/media_dinamica/media_dinamica.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicacaoSomenteComSoma01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicacaoSomenteComSoma01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicandoSomenteComSoma02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicandoSomenteComSoma02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicandoSomenteComSoma03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/multiplicacao_com_soma/MultiplicandoSomenteComSoma03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/multiplicacao_com_soma/multiplicacao_com_soma.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/multiplicacao_com_soma/multiplicacao_com_soma.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/recrutamento_empresa/RecrutamentoEmpresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/recrutamento_empresa/RecrutamentoEmpresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/recrutamento_empresa/RecrutamentoEmpresa02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/recrutamento_empresa/RecrutamentoEmpresa02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/recrutamento_empresa/TestesRecrutamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/recrutamento_empresa/TestesRecrutamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/recrutamento_empresa/TestesRecrutamento02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/recrutamento_empresa/TestesRecrutamento02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/exercicios/recrutamento_empresa/recrutamento_empresa.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/exercicios/recrutamento_empresa/recrutamento_empresa.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estruturas_repeticao/while.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estruturas_repeticao/while.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/calculadora_simples/enunciado.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/calculadora_simples/enunciado.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/calculadora_simples/meu_package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/calculadora_simples/resolucao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/calculadora_simples/resolucao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/calculo_area/meu_package/Calcular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/calculo_area/meu_package/Calcular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/calculo_area/meu_package/Explication.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/calculo_area/meu_package/Explication.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/calculo_area/meu_package/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/calculo_area/meu_package/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/conta_bancaria_simples/meu_package/enunciado.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/conta_bancaria_simples/meu_package/enunciado.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/geometria_primitiva_quiz/QuizGeometria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/geometria_primitiva_quiz/QuizGeometria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/lei_de_mendel_01/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/lei_de_mendel_01/descricao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/lei_de_mendel_01/meu_package/LeiDeMendel01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/lei_de_mendel_01/meu_package/LeiDeMendel01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/pedindo_argumento_console/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/pedindo_argumento_console/descricao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/pedindo_argumento_console/meu_package/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/pedindo_argumento_console/meu_package/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/pedindo_argumento_console/meu_package/PedindoArgumentosConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/pedindo_argumento_console/meu_package/PedindoArgumentosConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/pintando_tanques/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/pintando_tanques/descricao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/pintando_tanques/enunciado.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/pintando_tanques/enunciado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/pintando_tanques/meu_package/PintandoTanques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/pintando_tanques/meu_package/PintandoTanques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/plano_cartesiano_distancia/enunciado.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/plano_cartesiano_distancia/enunciado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/plano_cartesiano_distancia/meu_package/DistanciaPlanoCartesiano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/plano_cartesiano_distancia/meu_package/DistanciaPlanoCartesiano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/semaforos/enunciado.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/semaforos/enunciado.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/semaforos/version001/descricao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/semaforos/version001/descricao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/semaforos/version001/meu_package/Semaforos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/semaforos/version001/meu_package/Semaforos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/velocidade_media/meu_package/VelocidadeMedia.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/velocidade_media/meu_package/VelocidadeMedia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/velocidade_media/meu_package/VelocidadeMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/velocidade_media/meu_package/VelocidadeMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios_gerais/velocidade_media/meu_package/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercicios_gerais/velocidade_media/meu_package/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello_world/hello_world.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hello_world/hello_world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello_world/meu_package/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hello_world/meu_package/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello_world/meu_package/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hello_world/meu_package/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello_world/meu_package/ManipulandoListaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/listas/exercicios_listas/ecommerce/ManipulandoListaProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listas/exercicios_listas/ecommerce/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/listas/exercicios_listas/ecommerce/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listas/exercicios_listas/ecommerce/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/listas/exercicios_listas/ecommerce/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listas/testando_listas/TestandoListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/listas/testando_listas/TestandoListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/aritmeticos/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/aritmeticos/OperadoresAritmeticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/aritmeticos/aritmeticos.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/aritmeticos/aritmeticos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/atribuicao/OperadoresDeAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/atribuicao/OperadoresDeAtribuicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/atribuicao/atribuicao.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/atribuicao/atribuicao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/atribuicao/incremento_decremento/IncDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/atribuicao/incremento_decremento/IncDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/atribuicao/incremento_decremento/incremento_decremento.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/atribuicao/incremento_decremento/incremento_decremento.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/combinacao/CombinacaoDeOperadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/combinacao/CombinacaoDeOperadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/combinacao/combinacao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/divisao_resto/DivisaoResto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/divisao_resto/DivisaoResto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/divisao_resto/divisao_resto.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/divisao_resto/divisao_resto.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/equacao_dos_fabricantes/EquacaoDosFabricantesDeLentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/equacao_dos_fabricantes/EquacaoDosFabricantesDeLentes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/equacao_dos_fabricantes/equacaoDosFabricantes.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/equacao_dos_fabricantes/equacaoDosFabricantes.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/equacao_dos_fabricantes/equacao_dos_fabricantes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/equacao_dos_fabricantes/equacao_dos_fabricantes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/expressoes001/ExpressoesAritmeticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/expressoes001/ExpressoesAritmeticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/expressoes001/expressoes001.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/expressoes001/expressoes001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/expressoes002/ExpressoesComplexas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/expressoes002/ExpressoesComplexas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/expressoes002/expressoes002.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/expressoes002/expressoes002.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/teorema_de_pitagoras/TeoremaDePitagoras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/teorema_de_pitagoras/TeoremaDePitagoras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/exercicios/teorema_de_pitagoras/teorema_de_pitagoras.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/exercicios/teorema_de_pitagoras/teorema_de_pitagoras.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/expressoes_logicas/expressoes_logicas.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/expressoes_logicas/expressoes_logicas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/expressoes_logicas/op_logicos/OperadoresLogicos001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/expressoes_logicas/op_logicos/OperadoresLogicos001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/expressoes_logicas/op_logicos/OperadoresLogicos002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/expressoes_logicas/op_logicos/OperadoresLogicos002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/expressoes_logicas/op_logicos/OperadoresLogicos003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/expressoes_logicas/op_logicos/OperadoresLogicos003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/expressoes_logicas/op_relacionais/ComparacaoDeStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/expressoes_logicas/op_relacionais/ComparacaoDeStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/expressoes_logicas/op_relacionais/OperadoresRelacionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/expressoes_logicas/op_relacionais/OperadoresRelacionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/operadores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/ternario/OperadorTernario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/ternario/OperadorTernario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores/ternario/ternario.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operadores/ternario/ternario.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolucao_problemas/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/resolucao_problemas/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolucao_problemas/resolucao_problemas.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/resolucao_problemas/resolucao_problemas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/exercicios/soma/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/exercicios/soma/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/exercicios/soma/soma.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/exercicios/soma/soma.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/print_println/Prints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/print_println/Prints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/printf/Printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/printf/Printf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/saida.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/saida.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/seq_escape_1/SequenciaDeEscape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/seq_escape_1/SequenciaDeEscape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/saida_dados/seq_escape_2/SequenciaDeEscape2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/saida_dados/seq_escape_2/SequenciaDeEscape2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/constantes/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/constantes/Constantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/convencoes/ConvencoesDeNomes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/convencoes/ConvencoesDeNomes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/distributiva_valores/DistributivaSomaMult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/distributiva_valores/DistributivaSomaMult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/distributiva_valores/distributiva_valores.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/distributiva_valores/distributiva_valores.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/esfera_volume/VolumeAreaDaEsfera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/esfera_volume/VolumeAreaDaEsfera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/esfera_volume/esfera_volume.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/esfera_volume/esfera_volume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/quadrado_da_diferenca/QuadradoDaDiferenca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/quadrado_da_diferenca/QuadradoDaDiferenca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/quadrado_da_diferenca/quadrado_da_diferenca.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/quadrado_da_diferenca/quadrado_da_diferenca.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/quadrado_das_somas/QuadradoDasSomas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/quadrado_das_somas/QuadradoDasSomas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/quadrado_das_somas/quadrado_das_somas.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/quadrado_das_somas/quadrado_das_somas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/soma_dos_quadrados/SomaDosQuadrados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/soma_dos_quadrados/SomaDosQuadrados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/soma_dos_quadrados/soma_dos_quadrados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/soma_dos_quadrados/soma_dos_quadrados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/troca_de_dados/TrocaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/troca_de_dados/TrocaDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/exercicios/troca_de_dados/troca_de_dados.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/exercicios/troca_de_dados/troca_de_dados.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/testando_erros001/Erros1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/testando_erros001/Erros1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/testando_erros002/Erros2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/testando_erros002/Erros2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/variaveis.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/variaveis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/variaveis001/Variaveis1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/variaveis001/Variaveis1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/variaveis002/DeclaracaoDeVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/variaveis002/DeclaracaoDeVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveis/variaveis003/AlturaTrianguloRetangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/variaveis/variaveis003/AlturaTrianguloRetangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/ex_simples/ExemploVetSimples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/ex_simples/ex_simples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/rename_md.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/rename_md.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores/vetores.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/ex_simples/ExemploVetSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/ex_simples/ExemploVetSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/ex_simples/ex_simples.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/ex_simples/ex_simples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/exercicios/digitando_10valores/Digitando10Valores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/exercicios/digitando_10valores/Digitando10Valores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/exercicios/media_aritmetica_10valores/MediaAritmetica10Valores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/exercicios/media_aritmetica_10valores/MediaAritmetica10Valores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/exercicios/media_aritmetica_10valores/media_aritmetica_10valores.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/exercicios/media_aritmetica_10valores/media_aritmetica_10valores.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/rename_md.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/testando_vetores/TestandoVetores01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/testando_vetores/TestandoVetores01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/testando_vetores/TestandoVetores02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/testando_vetores/TestandoVetores02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vetores_matrizes/vetores_matrizes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vetores_matrizes/vetores_matrizes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +471,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConversaoExplicita.executor": "Run",
+    "Application.ExercicioMaiorElementoMatriz.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MediaAritmetica10Valores.executor": "Run",
+    "Application.TestandoListaEncadeada.executor": "Run",
     "Application.TestandoListas.executor": "Run",
     "Application.TestandoVetores01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -50,16 +482,47 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/rodrigo/Documents/Estudos/Programacao/JavaProjetos/EstudosWkSpace/Java_Estruturas_Dados",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="listas.exercicios_listas.ecommerce.Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.listas_encadeadas.encadeadas_manual" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestandoListaEncadeada">
+    <configuration name="ExercicioMaiorElementoMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.matrizes.exercicios_matrizes.maior_elemento_matriz.ExercicioMaiorElementoMatriz" />
       <module name="Java_Estruturas_Dados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="listas.exercicios_listas.ecommerce.*" />
+          <option name="PATTERN" value="com.matrizes.exercicios_matrizes.maior_elemento_matriz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.listas.exercicios_listas.ecommerce.Main" />
+      <module name="Java_Estruturas_Dados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.listas.exercicios_listas.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestandoListaEncadeada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.listas_encadeadas.encadeadas_manual.teste.TestandoListaEncadeada" />
+      <module name="Java_Estruturas_Dados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.listas_encadeadas.encadeadas_manual.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,7 +532,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestandoListaEncadeada" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExercicioMaiorElementoMatriz" />
       </list>
     </recent_temporary>
   </component>
